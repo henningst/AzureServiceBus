@@ -1,0 +1,12 @@
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\OrderProcessingRole.dll.config
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\OrderProcessingRole.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\OrderProcessingRole.pdb
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.ServiceBus.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.ServiceBus.xml
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\obj\Debug\OrderProcessingRole.csprojResolveAssemblyReference.cache
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\obj\Debug\OrderProcessingRole.dll
+C:\projects\faggruppe\MultiTierApp\OrderProcessingRole\obj\Debug\OrderProcessingRole.pdb
